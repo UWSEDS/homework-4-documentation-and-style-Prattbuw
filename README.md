@@ -1,5 +1,5 @@
 # Homework 4 - Documentation and Style
-
+# Brandon Pratt, 11/3/2019
 Revise your homework 3 to make it PEP8 compliant. The grading rubric is:
 
 1. (2 pt) Module-level documentation.
